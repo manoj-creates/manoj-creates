@@ -1,56 +1,15 @@
-# Manoj Creates
+# 💫 About Me:
+👋 Hi, I’m Manoj.<br><br>I’m a content creator and writer focused on building simple, practical digital systems using AI tools.<br><br>I use this space to document my learning, frameworks, prompts, and workflows in a clear and beginner-friendly way. My goal is to turn scattered ideas into structured systems that are easy to understand and reuse.<br><br>I believe in learning in public, creating long-term value through documentation, and keeping things simple instead of complex.<br><br>This GitHub is not about code — it’s about clarity, consistency, and proof of work.<br>
 
-This repository is my public knowledge hub.
 
-I use this space to document what I’m learning and building as a content creator using AI tools — focusing on clarity, systems, and long-term value.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/manoj.creates/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bmanojkumar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/manoj_creates/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bmanojkumar.creative@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=manoj-creates&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=manoj-creates&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-creates&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## What this repository contains
-
-- AI prompts that I actually use  
-- Content creation systems and workflows  
-- Writing frameworks and structured notes  
-- Learning notes shared openly  
-- Simple explanations (no coding required)
-
----
-
-## Why this exists
-
-I believe in learning in public.
-
-This repository helps me:
-- Build clarity through documentation  
-- Create reusable systems instead of scattered notes  
-- Maintain proof of work over time  
-- Share beginner-friendly resources with others  
-
----
-
-## Who this is for
-
-- Content creators  
-- Beginners exploring AI tools  
-- Writers and digital builders  
-- Anyone who prefers simple systems over complexity  
-
----
-
-## How to use this repository
-
-- Read and explore the notes  
-- Copy what’s useful  
-- Adapt ideas to your own workflow  
-
-Everything here is designed to be practical and easy to understand.
-
----
-
-## About me
-
-I’m Manoj — a content creator documenting my journey with AI tools, digital systems, and content workflows.
-
-🌐 Website: https://manojkumarrao.framer.website/  
-📸 Instagram: https://www.instagram.com/manoj.creates/
-📌 Pinterest: https://in.pinterest.com/manoj_creates/
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
